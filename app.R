@@ -1,6 +1,7 @@
 ## Only run examples in interactive R sessions
 if (interactive()) {
   ui <- fluidPage(
+    titlePanel("DataX"),
     includeCSS("style.css"),
     h1("Data exploration and Modeling"),
     
