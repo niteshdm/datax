@@ -1,0 +1,26 @@
+@import url("//fonts.googleapis.com/css?family=Spectral+SC");
+
+h1 {
+  font-family: 'Spectral SC', serif;
+  font-weight: 500;
+  line-height: 1.1;
+  color: #ffffff;
+  background-color: #6495ed;
+	padding:10px;
+	margin:0px;
+font-size:25px;
+}
+
+body {
+  
+background-color:#ffffff;
+}
+.set1{
+	background-color:#B22222}
+.container-fluid {
+padding : 0px;
+}
+.well {
+max-width:250px !important;
+border-radius :none !important;
+}
